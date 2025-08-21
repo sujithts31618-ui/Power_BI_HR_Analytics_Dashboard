@@ -172,7 +172,7 @@ To enhance the dashboard visually and allow users to filter data by company usin
 6.
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image.png)
-6.
+7.
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard/main/image7.png)
 
